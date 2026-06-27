@@ -106,4 +106,4 @@
 <p align="center"> 
   <img width="1280" height="409" src="https://i.imgur.com/2eU9JXP.png">
 </p>
-Read everything? Feel free to whis "piepiepiepie"
+Read everything? Feel free to whisp "piepiepiepie"
